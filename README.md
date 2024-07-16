@@ -19,6 +19,8 @@ This repository contains an in-depth analysis of Atliq Hardwares' performance ba
 
 
 ![Customer_netsales_1](Customer_netsales_1.png)
+![Customer_netsales_2](Customer_netsales_2.png)
+
 
 ## Introduction
 
